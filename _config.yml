@@ -7,7 +7,7 @@ title: Feng*Jing
 subtitle: This is our space
 description: For our
 keywords:
-author: Lo_giman
+author: Feng*Jing
 language: zh-Hans
 timezone:
 
@@ -86,7 +86,7 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 
 live2d:
-  enable: true
+  enable: false
   scriptFrom: local
   pluginRootPath: live2dw/
   pluginJsPath: lib/
